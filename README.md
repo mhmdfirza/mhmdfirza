@@ -18,13 +18,13 @@ I'm a passionate **Software Engineering student** has an organizational backgrou
 #### 💻 Programming Languages
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP)
-![Pascal](https://img.shields.io/badge/-Pascal-E62431?style=flat&logo=Pascal)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Pascal](https://img.shields.io/badge/-Pascal-E62431?style=flat&logo=pascal)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 #### 🧰 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=node.js)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
