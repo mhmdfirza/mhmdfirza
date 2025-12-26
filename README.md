@@ -8,7 +8,7 @@ I'm a passionate **Software Engineering student** has an organizational backgrou
 
 - 🔭 Currently learning **Machine Learning**, **Penetration Testing**, and **Modern Web Frameworks**
 - 🌱 Improving my skills through personal projects and collaboration
-- 💬 Ask me about `Python`, `SQL`, `JavaScript`, `Streamlit`, `Flask`, or `Node.js`
+- 💬 Ask me about `Python`, `SQL`, `PHP`, `Streamlit`, `Pascal`, or `Kotlin`  
 - ⚡ Fun fact: I love solving CTF challenges and visualizing data insights
 
 ---
@@ -19,6 +19,7 @@ I'm a passionate **Software Engineering student** has an organizational backgrou
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 
 #### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
