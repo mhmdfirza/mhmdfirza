@@ -4,11 +4,11 @@
 ---
 
 ### 🌟 About Me
-I'm a passionate **Software Engineering student** has an organizational background as the Student Council President, accustomed to working in teams, leading, and strategizing. who loves building data-driven, secure, and user-focused applications. I explore everything from **Data Science pipelines**, **Developing Desktop Software** to **Homelabbing** and **Fullstack experiences** — always learning, always building 🚀
+I'm a passionate **Software Engineering** student has an organizational background as the Student Council President, accustomed to working in teams, leading, and strategizing. who loves building data-driven, secure, and user-focused applications. I explore everything from **Developing Desktop Software** to **Homelabbing** and **Fullstack experiences** — always learning, always building 🚀
 
 - 🔭 Currently learning **Machine Learning**, **Network Routing**, and **Modern Frameworks**
 - 🌱 Improving my skills through personal projects and collaboration
-- 💬 Ask me about `SQL`, `PHP`, `Python`, `Pascal`, `Streamlit`, or `VirtualBox`
+- 💬 Ask me about `SQL`, `PHP`, `Python`, "Java Script" or "Minecraft"
 - ⚡ Fun fact: I love solving Network problems and visualizing data insights
 
 ---
@@ -35,7 +35,7 @@ I'm a passionate **Software Engineering student** has an organizational backgrou
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D7?style=flat&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu)
+![Arch](https://img.shields.io/badge/-Arch-E95420?style=flat&logo=arch)
 
 ---
 
