@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Firza Aqila 👋</h1>
-<h3 align="center"> Software Developer • Fullstack Developer • Computer Network • Data Science Enthusiast</h3>
+<h3 align="center"> Software Developer • Web Fullstack Developer • Computer Network</h3>
 
 ---
 
