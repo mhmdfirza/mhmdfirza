@@ -8,8 +8,8 @@ I'm a passionate **Software Engineering** student has an organizational backgrou
 
 - 🔭 Currently learning **Machine Learning**, **Network Routing**, and **Modern Frameworks**
 - 🌱 Improving my skills through personal projects and collaboration
-- 💬 Ask me about `SQL`, `PHP`, `Python`, "Java Script" or "Minecraft"
-- ⚡ Fun fact: I love solving Network problems and visualizing data insights
+- 💬 Ask me about `PHP`, `C++`, `PHP`, `Python`, `JavaScript` or `Minecraft`
+- ⚡ Fun fact: I love solving Leet Code problems and practice cybersecurity in TryHackMe
 
 ---
 
