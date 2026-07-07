@@ -55,15 +55,6 @@ Currently deepening expertise in Machine Learning, Computer Networking, and Mode
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmdfirza&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdfirza&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-firzatullah-29a240356/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
