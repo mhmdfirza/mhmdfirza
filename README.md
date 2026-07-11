@@ -21,7 +21,7 @@ Currently deepening expertise in Machine Learning, Computer Networking, and Mode
 | *[School Infrastructure Loan Management System](#)* | School facility & infrastructure management — asset tracking, maintenance requests, admin reporting | Laravel MySQL PHP Bootstrap |
 | *[Public Facility Parking Management System](#)* | Smart parking system with real-time slot monitoring and vehicle entry/exit logging | React Node.js Express MongoDB |
 | *[AI-Based Smart Attendance Management System](#)* | A smart attendance management system that uses AI to detect and recognize faces to mark attendance | React, NextJs, PostgreSQL, Redis, MinIO, DeepFace |
-| *[Customize Hyprland](#)* | Curated Arch Linux dotfiles — custom waybar, themes, and keybindings for a minimal desktop | Shell Hyprland Waybar Linux |
+| *[E-Commerce SeaPedia](#)* | A clone of e-commerce number 1 in Indonesia for academic project work | PHP, PostgeSQL, JavaScript, TypeScript, React |
 | *[IVWA](#)* | Intentionally Vulnerable Web App — a personal security lab for practicing OWASP Top 10 exploits | PHP MySQL Docker HTML/CSS |
 
 #### 💻 Programming Languages
