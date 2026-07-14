@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Firzatullah Aqila 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Firzatullah 👋</h1>
 <h3 align="center"> Fullstack Developer • Computer Network & Cyber Security Enthusiast</h3>
 
 ---
